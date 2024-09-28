@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.offer{
+    color: indianred;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.titlebar{
+    color: moccasin;
+    background-color: darksalmon;
+    padding: 10px;
+ 
+}
+h1,li,ul{
+    display: inline-block;
+}
+ul{
+    margin-left: 60%;
+}
+li:hover{
+    color:darkturquoise;
+}
+li{
+    cursor: pointer;
+}
+.content{
+    height: 300px;
+    background-color: rgb(208, 255, 255);
+h1{
+        color: indianred;
+        padding-top: 50px;
+    }
+h3{
+    padding-top: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+}
+.one{
+    display: inline-block;
+}
+.two{
+    display: inline-block;
+}
+.three{
+    display: inline-block;
+}
+.four{
+    display: inline-block;
+}
+.five{
+    display: inline-block;
+}
+.six{
+    display:inline-block;
+}
+
+.rating{
+    margin-top: 20px;
+    height: 300px;
+    background-color: rgb(208, 255, 255);
+}
